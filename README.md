@@ -22,3 +22,19 @@
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
+Markdown
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samelo4495&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samelo4495&layout=compact&theme=dracula&langs_count=6" />
+</div>
+
+---
+
+### 🔥 Streak de Contribuições
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samelo4495&theme=dracula" alt="streak stats" />
+</p>
