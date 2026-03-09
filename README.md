@@ -1,9 +1,23 @@
 # Olá, eu sou o [Seu Nome] 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samelo4495&show_icons=true&theme=radical)](https://github.com/samelo4495)
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samelo4495&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samelo4495&layout=compact&theme=dracula&langs_count=6" alt="Linguagens mais usadas" />
+</div>
+
+---
+
+### 🔥 Streak de Contribuições
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samelo4495&theme=dracula" alt="GitHub Streak" />
+</p>
+
+---
 
 ### 🛠 Tecnologias e Ferramentas
-<div style="display: inline-block">
+<div style="display: inline_block">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -22,19 +36,3 @@
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
-Markdown
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samelo4495&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samelo4495&layout=compact&theme=dracula&langs_count=6" />
-</div>
-
----
-
-### 🔥 Streak de Contribuições
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samelo4495&theme=dracula" alt="streak stats" />
-</p>
