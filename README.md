@@ -1,13 +1,13 @@
-# Olá, eu sou o [SEU NOME] 👋
+# Olá, eu sou o [Seu Nome] 👋
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samelo4495&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-git-masterstefan-ve.vercel.app/api?username=samelo4495&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samelo4495&layout=compact&theme=dracula&langs_count=6" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-git-masterstefan-ve.vercel.app/api/top-langs/?username=samelo4495&layout=compact&theme=dracula&langs_count=6" alt="Linguagens mais usadas" />
 </div>
 
 <br/>
@@ -48,5 +48,3 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
-<br/>
