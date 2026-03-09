@@ -5,9 +5,9 @@
 ## 📊 Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samelo4495&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samelo4495&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samelo4495&layout=compact&theme=blueberry&hide_langs_below=1" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samelo4495&layout=compact&theme=tokyonight&hide_langs_below=1" />
 </div>
 
 <br/>
