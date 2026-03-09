@@ -1,17 +1,13 @@
-# Olá, eu sou o [Seu Nome] 👋
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samelo4495&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samelo4495&layout=compact&theme=dracula&langs_count=6" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samelo4495&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samelo4495&layout=compact&theme=dracula&langs_count=6" />
 </div>
-
----
 
 ### 🔥 Streak de Contribuições
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samelo4495&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samelo4495&theme=dracula" />
 </p>
 
 ---
