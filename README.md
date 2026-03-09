@@ -1,7 +1,7 @@
 # Hi There 👋
 
 ---
-https://giphy.com/gifs/theweeknd-the-weeknd-i-feel-it-coming-MZLMKmuu4An86WQwXn
+<img height="180em" src="https://giphy.com/gifs/theweeknd-the-weeknd-i-feel-it-coming-MZLMKmuu4An86WQwXn">
 ---
 
 ## 📊 Statistics
